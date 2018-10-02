@@ -1,9 +1,9 @@
-# APLIKASI KUBURAN
-aplikasi ini berfungsi sebagai sarana untuk mendata kuburun mana yang masih kosong, atau data orang meninggal.
+# Profile Page
+profile page adalah static page untuk menampilkan portofilio
 
-```
-- Halo
-- Brother
-```
-
-`https://api.google.com`
+## Spesification
+- Navbar
+	- Home
+	- Task
+- Container
+- Footer
